@@ -1,4 +1,4 @@
-package com.aiod.employee.employeeinterface
+package com.aiod.employee
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
